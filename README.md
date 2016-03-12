@@ -2,7 +2,7 @@
 
 ![LitJson Ruler](https://qiita-image-store.s3.amazonaws.com/0/98018/4426910e-6bf0-fdb7-e650-3b776c975252.png)
   
-LitJson Ruler(LJR)は、LitJsonを用いた通信のやり取りを、Excelで全て自動化したAssetです。  
+LitJson Ruler(LJR)は、LitJsonを用いた通信のやり取りを、Excelで全て自動化したUnityAssetです。  
 詳しくは以下をご確認下さい。  
   
 [Japanese](http://qiita.com/yedo/items/932fbf558e1d2c63e36a)/[English](http://qiita.com/yedo/items/216a20479ec18889ee4f)  
