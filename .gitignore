@@ -1,0 +1,12 @@
+/*
+
+!/.gitignore
+!/Assets
+!/ProjectSettings
+!/LJR.unitypackage
+!/README.md
+
+.DS_Store
+*.DS_Store
+*~
+_Data*
