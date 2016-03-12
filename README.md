@@ -18,6 +18,10 @@ LitJson Ruler(LJR)は、LitJsonを用いた通信のやり取りを、Excelで�
 LJRを使用することでLitJsonを用いた通信処理を簡単に行うことが出来ます。  
 「Excelで通信のドキュメントを作成したい」「手軽にすぐ通信処理を実装したい」「LitJsonのクラス作成の手間を省きたい」等、お考えの人は、LJRの導入をご検討下さい。  
 
+![ss_0.png](https://d2ujflorbtfzji.cloudfront.net/package-screenshot/dacf8562-7e5d-490e-ae9a-b5eb4aa1f9f5_orig.png)
+![ss_1.png](https://d2ujflorbtfzji.cloudfront.net/package-screenshot/8f6a7841-f34a-4c42-8056-26eb6e7ced79_orig.png)
+![ss_2.png](https://d2ujflorbtfzji.cloudfront.net/package-screenshot/0cfa9347-c19d-4b47-bbc5-bcb46d432bef_orig.png)
+
 ## Requirement
 
 Unity 5.0+  
